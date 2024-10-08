@@ -1,0 +1,13 @@
+.svg-icons-container{
+    width: 4em;
+    height: 4em;
+    vertical-align: middle;
+    display: inline-block;
+    margin: 4px;
+    border: 1px solid black;
+}
+.svg-icons-container > svg{
+    width: 100%;
+    display: block;
+
+}

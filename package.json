@@ -1,0 +1,17 @@
+{
+  "name":"balafon-icons-demo-usage",
+  "type": "module",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.4",
+    "cli-color": "^2.0.4",
+    "clicolor": "^3.0.5",
+    "vite": "^5.4.8"
+  },
+  "dependencies": {
+    "vue": "^3.5.10"
+  },
+  "scripts": {
+    "dev":"vite dev",
+    "build_and_preview":"vite build && vite preview"
+  }
+}
